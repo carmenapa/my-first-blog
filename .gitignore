@@ -1,0 +1,8 @@
+#por defecto, cada vez que se crea un repoitorio de Git, se crean unos archivos de los siguientes tipos, y queremos ignorarlos
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
